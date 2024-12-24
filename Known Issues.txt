@@ -1,0 +1,5 @@
+Known Issues
+Every character's hitbox is out of place, this is likely a Bloodlines issues and I'm unsure how to fix it via the Pivot option.
+All 3 characters that have 8 walking frames have an issue where their frame rate cannot go up, so they have the same frame rate as the 4 walking frame characters.
+Legionnaire does not work properly, instead of having the walking sprites move across the screen, the sprites stay stationary based on what direction your character last moved.
+It's possible that there is more issues that I haven't found yet.
